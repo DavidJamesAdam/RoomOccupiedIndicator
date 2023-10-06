@@ -1,5 +1,9 @@
 # RoomOccupiedIndicator
-Code/schematics for a small project I made using the Raspberry Pi Pico to check if a room is occupied or not based on light.
+Problem: We have a reading nook in our place that we use. We never know if someone is in there and there have been times when we've been looking for someone for 5-10 minuites.
+
+Solution: create an indicator that turns on when someone is occupying the room.
+
+How: Since there's only one light source in the nook, and it's off if no one is in the room, creating a light dependant LED would show if someone is or is not in the nook.
 
 Some notes: 
 - The pico can also be powered via a micro USB power supply without battery. Just depending on where the breadboard is located. Schematic includes battery version, if powered via USB, just remove the battery leads from the breadboard.
