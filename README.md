@@ -10,3 +10,10 @@ Some notes:
 - Breadboard/photo resistor has to be very close to lightsource in order for LED to light up fully.
 
 ![Nook_light_sensor_schem](https://github.com/DavidJamesAdam/RoomOccupiedIndicator/assets/51091241/96ad7c69-fdde-4c35-a7a7-07a9b9143733)
+
+
+![PXL_20231012_032623726](https://github.com/DavidJamesAdam/RoomOccupiedIndicator/assets/51091241/7ed4672a-70ca-4374-87b6-135c43cfc4e8)
+
+![PXL_20231012_032635667](https://github.com/DavidJamesAdam/RoomOccupiedIndicator/assets/51091241/1a6ecd40-3840-4761-8845-ecdb36553c10)
+
+[Link to video](https://youtube.com/shorts/Vk4Li9rvBP4?feature=share)
